@@ -18,7 +18,7 @@ This is a simple project demonstrating how to package a Go binary along with a P
 
 ## Installation
 
-You can install this package using pip:
+You can install this package using pip (https://pypi.org/project/go-pkg/):
 
 ```bash
 pip install go-pkg
